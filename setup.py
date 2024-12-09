@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='mi_paquete',
+    name='paquete_mooc',
     version='0.1.0',
     packages=find_packages(),
     description='Descripción breve del paquete',
-    author='G',
-    author_email='tu_email@example.com',
+    author='J Blanco',
+    author_email='jblanco@ciencias.unam.mx',
     url='URL del repositorio de GitHub',
     install_requires=[
         # Lista de dependencias necesarias
